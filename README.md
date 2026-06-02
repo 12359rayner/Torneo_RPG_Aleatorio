@@ -9,4 +9,8 @@ Día 2: Se completó el archivo combate.py de manera que se
 añadio la parte logica de la interfaz, ahora los combates
 andan perfectamente, siguiente objetivo es hacer la logica
 del torneo, consistira de cuartos de final hasta una posible
-final
+final.
+
+Dia 3: torneo.py añadido de manera que ahora junto con combate.py
+ya se pueda realizar 3 combates, cuartos de final, semis y la 
+ansiada final, ya es usable aunque se le añadira el main por comodidad.
