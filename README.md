@@ -14,3 +14,7 @@ final.
 Dia 3: torneo.py añadido de manera que ahora junto con combate.py
 ya se pueda realizar 3 combates, cuartos de final, semis y la 
 ansiada final, ya es usable aunque se le añadira el main por comodidad.
+
+Día 4: main.py añadido de manera que reune todo lo necesario de los demas
+archivos y ahora pueda funcionar todo de un mismo archivo ejecutador
+a su vez agrega un recuadro para poner el nombre de tu personaje.
